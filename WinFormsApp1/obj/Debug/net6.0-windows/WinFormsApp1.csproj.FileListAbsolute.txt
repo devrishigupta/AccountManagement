@@ -1,0 +1,17 @@
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\GIT Repo Trial\AccountManagement\AccountManagement\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
